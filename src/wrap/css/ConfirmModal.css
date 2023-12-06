@@ -1,0 +1,55 @@
+#confirmModal {
+  z-index: 6;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: transparent;
+}
+#confirmModal .container {
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#confirmModal .container .confirm-box {
+  width: 360px;
+  background: #fff;
+  border-radius: 10px;
+  overflow: hidden;
+}
+#confirmModal .container .confirm-box ul {
+  width: 100%;
+}
+#confirmModal .container .confirm-box ul li {
+  width: 100%;
+}
+#confirmModal .container .confirm-box ul li .message-box {
+  width: 100%;
+  padding: 40px 30px;
+}
+#confirmModal .container .confirm-box ul li .message-box p {
+  text-align: center;
+  width: 100%;
+  font-size: 16px;
+  color: #333;
+  font-weight: 500;
+  line-height: 130%;
+}
+#confirmModal .container .confirm-box ul li .button-box {
+  width: 100%;
+  border-top: 1px solid #ddd;
+}
+#confirmModal .container .confirm-box ul li .button-box button {
+  width: 100%;
+  height: 55px;
+  font-weight: 600;
+  font-size: 16px;
+  color: #5f0080;
+  background: #fff;
+  border: 0;
+  cursor: pointer;
+}

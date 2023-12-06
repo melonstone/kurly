@@ -1,0 +1,101 @@
+#sub7-view {
+    width: 100%;
+    #section1 {
+        width: 100%;
+        padding: 50px 0 100px 0;
+        .container {
+            width: 100%;
+            max-width: 1050px;
+            margin: 0 auto;
+            .title {
+                width: 100%;
+                text-align: center;
+                padding: 0 0 50px 0;
+                h2 {
+                    font-size: 28px;
+                    font-weight: 600;
+                    color: #333;
+                }
+                h3 {
+                    padding: 10px 0 0 0;
+                    font-size: 14px;
+                    color: #999;
+                }
+            }
+            .content {
+                width: 100%;
+                .view-box {
+                    width: 100%;
+                    border-top: 2px solid ;
+                    > ul {
+                        width: 100%;
+                        > li {
+                            width: 100%;
+                            ul {
+                                width: 100%;
+                                li {
+                                    width: 100%;
+                                    display: flex;
+                                    border-bottom: 1px solid #f4f4f4;
+                                    > div {
+                                        height: 44px;
+                                        display: flex;
+                                        align-items: center;
+                                        &.left {
+                                            width: 130px;
+                                            padding: 13px 0 13px 20px;
+                                            background: #f7f5f8;
+                                            font-size: 14px;
+                                            strong {
+                                                color: #333;
+                                                font-weight: 500;
+                                            }
+                                        }
+                                        &.right {
+                                            width: 920px;
+                                            p {
+                                                padding-left: 25px;
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                        .gap {
+                            padding: 30px 20px 100px 20px;
+                            .contents {
+                                p {
+                                    padding: 3px 0;
+                                    font-size: 14px;
+                                    line-height: 140%;
+                                    color: #333;
+                                }
+                            }
+                        }
+                    }
+                }
+                .button-box {
+                    width: 100%;
+                    padding: 20px 0 0 0;
+                    border-top: 1px solid #ddd;
+                    text-align: right;
+                    button {
+                        width: 150px;
+                        height: 52px;
+                        background: #5f0080;
+                        border: 1px solid #5f0080;
+                        border-radius: 3px;
+                        color: #fff;
+                        cursor: pointer;
+                        margin: 0 0 0 10px;
+                        opacity: 1;
+                        transition: opacity 0.3s;
+                        &:hover {
+                            opacity: 0.9;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
