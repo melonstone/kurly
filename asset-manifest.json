@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/kurly/static/css/main.b1ef8e0e.css",
+    "main.js": "/kurly/static/js/main.aa2f96a0.js",
+    "static/media/icon_try.svg": "/kurly/static/media/icon_try.fd310ea30b78e5aa57c7.svg",
+    "static/media/icon_top_mdal_close.svg": "/kurly/static/media/icon_top_mdal_close.38e77f2a68a4fbbcafb2.svg",
+    "index.html": "/kurly/index.html",
+    "static/media/icon_circle_bg_gray_arrow.svg": "/kurly/static/media/icon_circle_bg_gray_arrow.9f7b6b69ebc0c6e86e22.svg",
+    "static/media/icon_check_off.svg": "/kurly/static/media/icon_check_off.1349c49e7ac5d2de8d17.svg",
+    "static/media/icon_check_on.svg": "/kurly/static/media/icon_check_on.645d002cf257cc8d4c13.svg",
+    "static/media/icon_close.svg": "/kurly/static/media/icon_close.48ebcf276ee04d17a882.svg",
+    "static/media/icon_arrow_right.svg": "/kurly/static/media/icon_arrow_right.802d713c994a202e1538.svg",
+    "static/media/icon_check.svg": "/kurly/static/media/icon_check.2d288532ac6b8ac44e24.svg",
+    "static/media/icon_dot.svg": "/kurly/static/media/icon_dot.f1c4a62d9156b1631e23.svg",
+    "static/media/icon_arrow.svg": "/kurly/static/media/icon_arrow.0eeda80f4277fc27ef5f.svg",
+    "static/media/icon_arrow_purple.svg": "/kurly/static/media/icon_arrow_purple.42809190e4b3d747003f.svg",
+    "main.b1ef8e0e.css.map": "/kurly/static/css/main.b1ef8e0e.css.map",
+    "main.aa2f96a0.js.map": "/kurly/static/js/main.aa2f96a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1ef8e0e.css",
+    "static/js/main.aa2f96a0.js"
+  ]
+}
